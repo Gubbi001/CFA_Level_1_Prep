@@ -1,2 +1,1 @@
-# CFA_Level_1_Prep
-CFA Level 1 study tracker with notes, flashcards, and progress logs.
+# CFA Level 1 Prep Tracker
